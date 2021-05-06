@@ -2,7 +2,7 @@
 
 # install fonts
 brew tap homebrew/cask-fonts
-brew cask install font-hack
+brew install font-hack
 
 # install zsh
 brew install zsh
